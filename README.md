@@ -51,8 +51,8 @@ Bonjour à tous, je suis @EnissayG, un passionné de développement logiciel et 
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
-- [Quizzer]([lien_vers_projet_1](https://github.com/EnissayG/Quizzer)) 
-- [Alarme RasberryPI]([lien_vers_projet_2](https://github.com/EnissayG/AlarmRasberryPi)) 
+- [Quizzer]([https://github.com/EnissayG/Quizzer](https://github.com/EnissayG/Quizzer)) 
+- [Alarme RasberryPI]([https://github.com/EnissayG/AlarmRasberryPi](https://github.com/EnissayG/AlarmRasberryPi)) 
 
 
 ## Contact
